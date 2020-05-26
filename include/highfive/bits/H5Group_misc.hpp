@@ -7,7 +7,7 @@
  *
  */
 
-#include <H5Gpublic.h>
+#include <../serial/H5Gpublic.h>
 
 namespace HighFive {
 

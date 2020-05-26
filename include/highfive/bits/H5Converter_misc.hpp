@@ -24,8 +24,8 @@
 #include <boost/numeric/ublas/matrix.hpp>
 #endif
 
-#include <H5Dpublic.h>
-#include <H5Ppublic.h>
+#include <../serial/H5Dpublic.h>
+#include <../serial/H5Ppublic.h>
 
 #include "H5Utils.hpp"
 

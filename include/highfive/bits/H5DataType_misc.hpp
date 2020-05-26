@@ -12,7 +12,7 @@
 #include <string>
 #include <complex>
 
-#include <H5Tpublic.h>
+#include <../serial/H5Tpublic.h>
 
 
 namespace HighFive {

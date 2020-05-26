@@ -11,7 +11,7 @@
 
 #include <string>
 
-#include <H5Fpublic.h>
+#include <../serial/H5Fpublic.h>
 
 #include "../H5Utility.hpp"
 

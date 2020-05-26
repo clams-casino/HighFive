@@ -14,7 +14,7 @@
 #include <vector>
 #include <numeric>
 
-#include <H5Spublic.h>
+#include <../serial/H5Spublic.h>
 
 #include "H5Utils.hpp"
 

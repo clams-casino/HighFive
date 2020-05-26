@@ -19,8 +19,8 @@
 #include <boost/multi_array.hpp>
 #endif
 
-#include <H5Apublic.h>
-#include <H5Ppublic.h>
+#include <../serial/H5Apublic.h>
+#include <../serial/H5Ppublic.h>
 
 #include "H5Converter_misc.hpp"
 #include "H5Utils.hpp"

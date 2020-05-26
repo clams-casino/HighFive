@@ -12,7 +12,7 @@
 #include <stdexcept>
 #include <string>
 
-#include <H5Ipublic.h>
+#include <../serial/H5Ipublic.h>
 
 #include "bits/H5Utils.hpp"
 

@@ -13,7 +13,7 @@
 #include <string>
 #include <vector>
 
-#include <H5Ipublic.h>
+#include <../serial/H5Ipublic.h>
 
 namespace HighFive {
 

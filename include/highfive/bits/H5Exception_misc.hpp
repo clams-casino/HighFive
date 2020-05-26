@@ -11,7 +11,7 @@
 
 #include <cstdlib>
 
-#include <H5Epublic.h>
+#include <../serial/H5Epublic.h>
 
 namespace HighFive {
 

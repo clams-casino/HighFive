@@ -10,7 +10,7 @@
 #ifndef H5UTILITY_HPP
 #define H5UTILITY_HPP
 
-#include <H5Epublic.h>
+#include <../serial/H5Epublic.h>
 
 namespace HighFive {
 

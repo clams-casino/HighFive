@@ -11,8 +11,8 @@
 
 #include <ctime>
 
-#include <H5Ipublic.h>
-#include <H5Opublic.h>
+#include <../serial/H5Ipublic.h>
+#include <../serial/H5Opublic.h>
 
 #include "H5Exception.hpp"
 

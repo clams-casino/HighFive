@@ -9,7 +9,7 @@
 #ifndef H5PROPERTY_LIST_MISC_HPP
 #define H5PROPERTY_LIST_MISC_HPP
 
-#include <H5Ppublic.h>
+#include <../serial/H5Ppublic.h>
 
 namespace HighFive {
 

@@ -12,12 +12,12 @@
 #include <string>
 #include <vector>
 
-#include <H5Apublic.h>
-#include <H5Dpublic.h>
-#include <H5Fpublic.h>
-#include <H5Gpublic.h>
-#include <H5Ppublic.h>
-#include <H5Tpublic.h>
+#include <../serial/H5Apublic.h>
+#include <../serial/H5Dpublic.h>
+#include <../serial/H5Fpublic.h>
+#include <../serial/H5Gpublic.h>
+#include <../serial/H5Ppublic.h>
+#include <../serial/H5Tpublic.h>
 
 #include "H5Iterables_misc.hpp"
 #include "../H5DataSet.hpp"

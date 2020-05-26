@@ -24,7 +24,7 @@
 #include <boost/numeric/ublas/matrix.hpp>
 #endif
 
-#include <H5public.h>
+#include <../serial/H5public.h>
 
 #ifndef H5_USE_CXX11
 #if ___cplusplus >= 201103L
